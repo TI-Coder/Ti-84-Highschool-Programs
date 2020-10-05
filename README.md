@@ -10,3 +10,4 @@ Please comment any problems you have.
 
 
 You should not have to use the Asm( function to run the program. Just transfer the respective file to your calculator and it should run fine.
+This was originally programmed on the color version, so I expect more problem notices from the non-color file. However, I did my best to sort them out.
